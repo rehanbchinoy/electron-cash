@@ -1,5 +1,4 @@
 pyaes>=0.1a1
-sfox-ecdsa==0.13
 requests>=2.20.0
 qrcode==6.1
 protobuf==3.9.1
